@@ -1,2 +1,3 @@
 Developement version
 i 'develop branch' changed for first time
+We are in feature branch og changing scratch.php
